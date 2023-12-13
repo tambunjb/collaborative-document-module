@@ -1,6 +1,6 @@
 # <span id="tjidtitle">Collaborative Document Module</span>
 
-<div>Technologies: <span id="tjidtechs">Yii2, MySQL</span></div>
+<div>Technologies: <span id="tjidtechs">Yii2, PHP, MySQL</span></div>
 <br />
 
 I created this module to help a team working on accreditation collaborate effectively while working separately. They were responsible for creating content for a comprehensive accreditation book and collecting necessary reference materials. So, there was a need for a system not just to gather materials but also to manage who can access which documents, keep track of progress, and provide assessment features.
